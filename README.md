@@ -2,7 +2,7 @@
 
 This is a reimplementation of the hexagon wave [animation](http://beesandbombs.tumblr.com/post/97231279204/hexagon-wave) originally created by [Bees & Bombs](http://beesandbombs.tumblr.com/). 
 
-![Preview](http://cl.ly/image/3i0T3f3N3L0Y/anim2.gif)
+![Preview](http://f.cl.ly/items/3W2K150K0P39231L2w36/anim3.gif)
 
 It should be noted that this was built for fun and to play around in swift for a bit. It is a pretty big abuse of `CALayer` and not the right way to implement an animation like this, it should probably be done in something like SceneKit/OpenGL/Metal.
 
