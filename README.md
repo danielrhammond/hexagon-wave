@@ -6,7 +6,7 @@ This is a reimplementation of the hexagon wave [animation](http://beesandbombs.t
 
 It should be noted that this was built for fun and to play around in swift for a bit. It is a pretty big abuse of `CALayer` and not the right way to implement an animation like this, it should probably be done in something like SceneKit/OpenGL/Metal.
 
-The original processing.js source is available [here](https://gist.github.com/anonymous/63fe6aefc1e05422b6ef), 
+The original processing.js source is available [here](https://gist.github.com/anonymous/63fe6aefc1e05422b6ef).
 
 # License
 
